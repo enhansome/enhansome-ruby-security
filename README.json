@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T15:57:10Z",
             "owner": "github",
             "repo": "secure_headers",
-            "stars": 3233
+            "stars": 3232
           }
         }
       ],
@@ -82,7 +82,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13369
+            "stars": 13371
           }
         },
         {
@@ -93,7 +93,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T22:38:39Z",
+            "last_commit": "2026-08-13T17:08:16Z",
             "owner": "presidentbeef",
             "repo": "brakeman",
             "stars": 7261
@@ -110,7 +110,7 @@
             "last_commit": "2026-04-23T03:15:35Z",
             "owner": "flyerhzm",
             "repo": "rails_best_practices",
-            "stars": 4162
+            "stars": 4163
           }
         },
         {
@@ -183,7 +183,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T00:25:45Z",
+            "last_commit": "2026-08-13T13:52:41Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -309,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:28.051Z",
+    "last_updated": "2026-08-14T05:21:27.274Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
     "enhanced_repository": "enhansome/enhansome-ruby-security",
