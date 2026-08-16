@@ -96,7 +96,7 @@
             "last_commit": "2026-08-13T17:08:16Z",
             "owner": "presidentbeef",
             "repo": "brakeman",
-            "stars": 7261
+            "stars": 7262
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-03T14:48:59Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2719
+            "stars": 2725
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-14T23:20:23Z",
             "owner": "microsoft",
             "repo": "DevSkim",
-            "stars": 1002
+            "stars": 1003
           }
         },
         {
@@ -183,7 +183,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T12:19:52Z",
+            "last_commit": "2026-08-15T22:31:53Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -309,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:16:35.934Z",
+    "last_updated": "2026-08-16T04:22:35.686Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
     "enhanced_repository": "enhansome/enhansome-ruby-security",
