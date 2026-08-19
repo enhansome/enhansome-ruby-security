@@ -14,7 +14,7 @@
             "last_commit": "2026-07-02T20:27:09Z",
             "owner": "rack",
             "repo": "rack-attack",
-            "stars": 5762
+            "stars": 5763
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13376
+            "stars": 13377
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-17T02:33:52Z",
             "owner": "Bearer",
             "repo": "bearer",
-            "stars": 2726
+            "stars": 2728
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-16T15:47:08Z",
             "owner": "microsoft",
             "repo": "DevSkim",
-            "stars": 1003
+            "stars": 1002
           }
         },
         {
@@ -183,7 +183,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T19:30:01Z",
+            "last_commit": "2026-08-18T18:26:45Z",
             "owner": "rubysec",
             "repo": "ruby-advisory-db",
             "stars": 1070
@@ -309,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:21:29.181Z",
+    "last_updated": "2026-08-19T04:22:52.987Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
     "enhanced_repository": "enhansome/enhansome-ruby-security",
