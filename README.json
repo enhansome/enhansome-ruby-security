@@ -1,316 +1,343 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Rack::Attack",
-          "description": "Middleware for blocking and throttling requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-02T20:27:09Z",
-            "owner": "rack",
-            "repo": "rack-attack",
-            "stars": 5763
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rack::Attack",
+              "description": "Middleware for blocking and throttling requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5219382,
+                "language": "Ruby",
+                "last_commit": "2026-07-02T20:27:09Z",
+                "owner": "rack",
+                "repo": "rack-attack",
+                "stars": 5763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "secure-headers",
+              "description": "Manages application of security headers with many safe defaults.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7122663,
+                "language": "Ruby",
+                "last_commit": "2026-07-27T15:57:10Z",
+                "owner": "github",
+                "repo": "secure_headers",
+                "stars": 3229
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Framework Hardening"
         },
         {
-          "node_type": "item",
-          "title": "secure-headers",
-          "description": "Manages application of security headers with many safe defaults.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-27T15:57:10Z",
-            "owner": "github",
-            "repo": "secure_headers",
-            "stars": 3229
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ronin",
+              "description": "Ronin is a free and Open Source Ruby toolkit for security research and development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494591,
+                "language": "Ruby",
+                "last_commit": "2026-01-12T07:11:21Z",
+                "owner": "ronin-rb",
+                "repo": "ronin",
+                "stars": 755
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Salus",
+              "description": "Multi purpose security scanning tool supporting Ruby, Node, Python and Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153349500,
+                "language": "HTML",
+                "last_commit": "2025-06-12T17:47:25Z",
+                "owner": "coinbase",
+                "repo": "salus",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "git-secrets",
+              "description": "Prevents you from committing secrets and credentials into git repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39160150,
+                "language": "Shell",
+                "last_commit": "2025-09-17T20:31:20Z",
+                "owner": "awslabs",
+                "repo": "git-secrets",
+                "stars": 13377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brakeman",
+              "description": "A static analysis security vulnerability scanner for Ruby on Rails applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865250,
+                "language": "Ruby",
+                "last_commit": "2026-08-13T17:08:16Z",
+                "owner": "presidentbeef",
+                "repo": "brakeman",
+                "stars": 7262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rails_best_practices",
+              "description": "A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359371,
+                "language": "Ruby",
+                "last_commit": "2026-04-23T03:15:35Z",
+                "owner": "flyerhzm",
+                "repo": "rails_best_practices",
+                "stars": 4163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bearer",
+              "description": "A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542197924,
+                "language": "Go",
+                "last_commit": "2026-08-17T02:33:52Z",
+                "owner": "Bearer",
+                "repo": "bearer",
+                "stars": 2729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevSkim",
+              "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64857273,
+                "language": "C#",
+                "last_commit": "2026-08-16T15:47:08Z",
+                "owner": "microsoft",
+                "repo": "DevSkim",
+                "stars": 1002
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dawnscanner",
+              "description": "A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9218376,
+                "language": "Ruby",
+                "last_commit": "2024-03-02T19:07:31Z",
+                "owner": "thesp0nge",
+                "repo": "dawnscanner",
+                "stars": 749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ban-sensitive-files",
+              "description": "Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47205638,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T19:35:12Z",
+                "owner": "bahmutov",
+                "repo": "ban-sensitive-files",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Code Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ruby-advisory-db",
+              "description": "Open source database of security advisories that are relevant to Ruby libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8154497,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T18:26:45Z",
+                "owner": "rubysec",
+                "repo": "ruby-advisory-db",
+                "stars": 1070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GemScanner",
+              "description": "GemScanner identifies depreciated versions of gems in your ruby on rails project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351895254,
+                "language": "Python",
+                "last_commit": "2021-03-30T08:05:45Z",
+                "owner": "Splint3r7",
+                "repo": "GemScanner",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerabilities and Security Advisories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RailsGoat",
+              "description": "A vulnerable version of Rails that follows the OWASP Top 10 http://railsgoat.cktricky.com .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8889192,
+                "language": "HTML",
+                "last_commit": "2026-01-28T14:02:19Z",
+                "owner": "OWASP",
+                "repo": "railsgoat",
+                "stars": 921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeleteMe",
+              "description": "Educational insecure Rails application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24666545,
+                "language": "Ruby",
+                "last_commit": "2014-12-04T17:08:40Z",
+                "owner": "rietta",
+                "repo": "DeleteMe",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hacking Playground"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zen Rails Security Checklist",
+              "description": "A well-documented Rails security checklist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87855245,
+                "language": "Ruby",
+                "last_commit": "2020-03-09T11:42:57Z",
+                "owner": "brunofacca",
+                "repo": "zen-rails-security-checklist",
+                "stars": 1811
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rails security checklist",
+              "description": "🔑 Community-driven Rails Security Checklist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77745119,
+                "language": "Ruby",
+                "last_commit": "2022-07-17T16:46:46Z",
+                "owner": "eliotsykes",
+                "repo": "rails-security-checklist",
+                "stars": 1362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rails security best practices",
+              "description": "A good overview of usefull things to look out for when working with Rails.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37635656,
+                "language": null,
+                "last_commit": "2025-07-26T02:41:21Z",
+                "owner": "ankane",
+                "repo": "secure_rails",
+                "stars": 1066
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rubyfu",
+              "description": "Offensive security book for rubyist (Source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30756974,
+                "language": "CSS",
+                "last_commit": "2023-08-07T17:20:16Z",
+                "owner": "rubyfu",
+                "repo": "RubyFu",
+                "stars": 356
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles & Guides"
         }
       ],
-      "title": "Web Framework Hardening"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ronin",
-          "description": "Ronin is a free and Open Source Ruby toolkit for security research and development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-12T07:11:21Z",
-            "owner": "ronin-rb",
-            "repo": "ronin",
-            "stars": 755
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Salus",
-          "description": "Multi purpose security scanning tool supporting Ruby, Node, Python and Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-06-12T17:47:25Z",
-            "owner": "coinbase",
-            "repo": "salus",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Multi tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "git-secrets",
-          "description": "Prevents you from committing secrets and credentials into git repositories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-09-17T20:31:20Z",
-            "owner": "awslabs",
-            "repo": "git-secrets",
-            "stars": 13377
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brakeman",
-          "description": "A static analysis security vulnerability scanner for Ruby on Rails applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-13T17:08:16Z",
-            "owner": "presidentbeef",
-            "repo": "brakeman",
-            "stars": 7262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rails_best_practices",
-          "description": "A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-04-23T03:15:35Z",
-            "owner": "flyerhzm",
-            "repo": "rails_best_practices",
-            "stars": 4163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bearer",
-          "description": "A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T02:33:52Z",
-            "owner": "Bearer",
-            "repo": "bearer",
-            "stars": 2728
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DevSkim",
-          "description": "DevSkim is a set of IDE plugins and rules that provide security \"linting\" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T15:47:08Z",
-            "owner": "microsoft",
-            "repo": "DevSkim",
-            "stars": 1002
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dawnscanner",
-          "description": "A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-03-02T19:07:31Z",
-            "owner": "thesp0nge",
-            "repo": "dawnscanner",
-            "stars": 749
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ban-sensitive-files",
-          "description": "Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T19:35:12Z",
-            "owner": "bahmutov",
-            "repo": "ban-sensitive-files",
-            "stars": 69
-          }
-        }
-      ],
-      "title": "Static Code Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ruby-advisory-db",
-          "description": "Open source database of security advisories that are relevant to Ruby libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T18:26:45Z",
-            "owner": "rubysec",
-            "repo": "ruby-advisory-db",
-            "stars": 1070
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GemScanner",
-          "description": "GemScanner identifies depreciated versions of gems in your ruby on rails project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-30T08:05:45Z",
-            "owner": "Splint3r7",
-            "repo": "GemScanner",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Vulnerabilities and Security Advisories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RailsGoat",
-          "description": "A vulnerable version of Rails that follows the OWASP Top 10 http://railsgoat.cktricky.com .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-28T14:02:19Z",
-            "owner": "OWASP",
-            "repo": "railsgoat",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeleteMe",
-          "description": "Educational insecure Rails application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-12-04T17:08:40Z",
-            "owner": "rietta",
-            "repo": "DeleteMe",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Hacking Playground"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Zen Rails Security Checklist",
-          "description": "A well-documented Rails security checklist.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2020-03-09T11:42:57Z",
-            "owner": "brunofacca",
-            "repo": "zen-rails-security-checklist",
-            "stars": 1811
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rails security checklist",
-          "description": "🔑 Community-driven Rails Security Checklist.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-07-17T16:46:46Z",
-            "owner": "eliotsykes",
-            "repo": "rails-security-checklist",
-            "stars": 1362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rails security best practices",
-          "description": "A good overview of usefull things to look out for when working with Rails.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-26T02:41:21Z",
-            "owner": "ankane",
-            "repo": "secure_rails",
-            "stars": 1066
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rubyfu",
-          "description": "Offensive security book for rubyist (Source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-08-07T17:20:16Z",
-            "owner": "rubyfu",
-            "repo": "RubyFu",
-            "stars": 356
-          }
-        }
-      ],
-      "title": "Articles & Guides"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:22:52.987Z",
+    "last_updated": "2026-08-19T12:49:14.749Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
+    "original_repository_id": 156288554,
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
     "enhanced_repository": "enhansome/enhansome-ruby-security",
     "enhanced_repository_description": null,
