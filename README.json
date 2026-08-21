@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-02T20:27:09Z",
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5763
+                "stars": 5762
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2025-09-17T20:31:20Z",
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13377
+                "stars": 13379
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-13T17:08:16Z",
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7262
+                "stars": 7260
               }
             },
             {
@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 542197924,
                 "language": "Go",
-                "last_commit": "2026-08-17T02:33:52Z",
+                "last_commit": "2026-08-20T12:11:12Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2730
+                "stars": 2732
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:22:36.003Z",
+    "last_updated": "2026-08-21T04:25:07.479Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_id": 156288554,
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
