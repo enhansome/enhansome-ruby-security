@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 542197924,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:33:02Z",
+                "last_commit": "2026-08-24T09:52:10Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2733
+                "stars": 2735
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-01-28T14:02:19Z",
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 921
+                "stars": 922
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:31:52.582Z",
+    "last_updated": "2026-08-24T14:30:45.381Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_id": 156288554,
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
