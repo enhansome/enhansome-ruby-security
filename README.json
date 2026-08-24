@@ -54,7 +54,7 @@
                 "last_commit": "2026-01-12T07:11:21Z",
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 753
+                "stars": 754
               }
             },
             {
@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 542197924,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:11:12Z",
+                "last_commit": "2026-08-24T02:33:02Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2732
+                "stars": 2733
               }
             },
             {
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 8154497,
                 "language": "Ruby",
-                "last_commit": "2026-08-22T12:26:20Z",
+                "last_commit": "2026-08-24T00:52:09Z",
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1070
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:24:01.030Z",
+    "last_updated": "2026-08-24T04:31:52.582Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_id": 156288554,
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
