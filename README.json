@@ -54,7 +54,7 @@
                 "last_commit": "2026-01-12T07:11:21Z",
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 754
+                "stars": 755
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-04-23T03:15:35Z",
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4163
+                "stars": 4162
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-24T17:09:00Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2737
+                "stars": 2736
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-16T15:47:08Z",
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1003
+                "stars": 1004
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:01.251Z",
+    "last_updated": "2026-08-26T04:26:35.527Z",
     "original_repository": "pxlpnk/awesome-ruby-security",
     "original_repository_id": 156288554,
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
