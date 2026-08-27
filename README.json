@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-27T15:57:10Z",
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3229
+                "stars": 3228
               }
             }
           ],
@@ -91,7 +91,7 @@
                 "last_commit": "2025-09-17T20:31:20Z",
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13379
+                "stars": 13382
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-04-23T03:15:35Z",
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4162
+                "stars": 4161
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-24T17:09:00Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2736
+                "stars": 2738
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 64857273,
                 "language": "C#",
-                "last_commit": "2026-08-16T15:47:08Z",
+                "last_commit": "2026-08-26T18:25:18Z",
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1004
@@ -166,7 +166,7 @@
                 "last_commit": "2024-03-02T19:07:31Z",
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 749
+                "stars": 748
               }
             },
             {
@@ -178,7 +178,7 @@
                 "archived": false,
                 "id": 47205638,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T19:35:12Z",
+                "last_commit": "2026-08-26T19:06:59Z",
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
                 "stars": 69
@@ -335,9 +335,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:26:35.527Z",
-    "original_repository": "pxlpnk/awesome-ruby-security",
-    "original_repository_id": 156288554,
+    "last_updated": "2026-08-27T12:04:19.943Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156288554,
+      "language": null,
+      "last_commit": "2024-02-22T07:48:23Z",
+      "owner": "pxlpnk",
+      "repo": "awesome-ruby-security",
+      "stars": 474
+    },
     "original_repository_sha": "e4e33983f3913a16ef489db01e9f2f5e4cf0e335",
     "enhanced_repository": "enhansome/enhansome-ruby-security",
     "enhanced_repository_description": null,
