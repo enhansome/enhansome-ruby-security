@@ -18,7 +18,8 @@
                 "owner": "rack",
                 "repo": "rack-attack",
                 "stars": 5763
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3228
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "ronin-rb",
                 "repo": "ronin",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "coinbase",
                 "repo": "salus",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -91,8 +95,9 @@
                 "last_commit": "2025-09-17T20:31:20Z",
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13382
-              }
+                "stars": 13383
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -106,8 +111,9 @@
                 "last_commit": "2026-08-13T17:08:16Z",
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7262
-              }
+                "stars": 7265
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
                 "stars": 4161
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -136,8 +143,9 @@
                 "last_commit": "2026-08-24T17:09:00Z",
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2738
-              }
+                "stars": 2739
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1004
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -204,7 +215,8 @@
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1070
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "Splint3r7",
                 "repo": "GemScanner",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -241,7 +254,8 @@
                 "owner": "OWASP",
                 "repo": "railsgoat",
                 "stars": 922
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "rietta",
                 "repo": "DeleteMe",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -278,7 +293,8 @@
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
                 "stars": 1811
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -308,7 +325,8 @@
                 "owner": "ankane",
                 "repo": "secure_rails",
                 "stars": 1066
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             },
             {
               "node_type": "item",
@@ -323,7 +341,8 @@
                 "owner": "rubyfu",
                 "repo": "RubyFu",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T15:42:17.024Z"
             }
           ],
           "description": null,
@@ -335,7 +354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:48:29.525Z",
+    "last_updated": "2026-08-28T15:42:17.024Z",
     "original_repository_info": {
       "archived": false,
       "id": 156288554,
