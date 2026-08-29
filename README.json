@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13384,
+                "stars": 13385,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:09.693Z",
+    "last_updated": "2026-08-29T10:28:59.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
