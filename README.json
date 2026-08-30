@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13385,
+                "stars": 13386,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,7 +187,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-13T17:08:16Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
                 "stars": 7265,
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T00:52:09Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-29T13:32:01Z",
+                "open_issues": 2,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1071,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:28:59.673Z",
+    "last_updated": "2026-08-30T09:29:41.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
