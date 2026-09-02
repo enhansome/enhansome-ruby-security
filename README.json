@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5764,
+                "stars": 5760,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -47,7 +47,7 @@
                 "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3227,
+                "stars": 3226,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -190,7 +190,7 @@
                 "open_issues": 116,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7266,
+                "stars": 7265,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4161,
+                "stars": 4159,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 18,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2739,
+                "stars": 2740,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -373,10 +373,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T12:01:03Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": [
                   "advisory-files",
                   "hacktoberfest",
@@ -432,7 +432,7 @@
                 "open_issues": 3,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 922,
+                "stars": 923,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -517,7 +517,7 @@
                 "open_issues": 81,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "checklist",
                   "rails",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:55:53.485Z",
+    "last_updated": "2026-09-02T08:09:17.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
