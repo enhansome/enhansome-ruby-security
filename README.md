@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,516 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,813 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -32,19 +32,19 @@ A curated list of awesome Ruby Security related resources.
 
 ## Static Code Analysis
 
-* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,386 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
-* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,266 | 🐛 116 | 🌐 Ruby | 📅 2026-08-13 - A static analysis security vulnerability scanner for Ruby on Rails applications.
-* [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,159 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
-* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,740 | 🐛 18 | 🌐 Go | 📅 2026-08-31 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,387 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
+* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,266 | 🐛 117 | 🌐 Ruby | 📅 2026-08-13 - A static analysis security vulnerability scanner for Ruby on Rails applications.
+* [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,158 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
+* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,742 | 🐛 19 | 🌐 Go | 📅 2026-09-03 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,004 | 🐛 76 | 🌐 C# | 📅 2026-09-03 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 * [dawnscanner](https://github.com/thesp0nge/dawnscanner) ⭐ 748 | 🐛 24 | 🌐 Ruby | 📅 2024-03-02 - A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
-* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 69 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-02 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
+* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 69 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-03 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 * [rubocop-gitlab-security](https://gitlab.com/gitlab-org/rubocop-gitlab-security) - A set of rules to extend rubocop with additional security rules.
 * [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs.
 
 ## Vulnerabilities and Security Advisories
 
-* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,071 | 🐛 6 | 🌐 Ruby | 📅 2026-08-31 - Open source database of security advisories that are relevant to Ruby libraries.
+* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,071 | 🐛 7 | 🌐 Ruby | 📅 2026-08-31 - Open source database of security advisories that are relevant to Ruby libraries.
 * [GemScanner](https://github.com/Splint3r7/GemScanner) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-03-30 - GemScanner identifies depreciated versions of gems in your ruby on rails project.
 * [bundler-audit](https://rubygems.org/gems/bundler-audit) - Patch-level verification for Ruby apps.
 
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13386,
+                "stars": 13387,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,7 +187,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-13T17:08:16Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
                 "stars": 7266,
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4159,
+                "stars": 4158,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T02:32:57Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-03T20:27:58Z",
+                "open_issues": 19,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2740,
+                "stars": 2742,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-02T23:09:14Z",
+                "last_commit": "2026-09-03T22:34:15Z",
                 "open_issues": 15,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T12:01:03Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1071,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:18:59.522Z",
+    "last_updated": "2026-09-04T08:15:02.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
