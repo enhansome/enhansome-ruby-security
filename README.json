@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13388,
+                "stars": 13389,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 117,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7268,
+                "stars": 7267,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-05T04:25:32Z",
+                "last_commit": "2026-09-07T18:28:37Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T14:11:00Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-08T03:25:23Z",
+                "open_issues": 3,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1071,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:39:41.640Z",
+    "last_updated": "2026-09-08T08:21:20.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
@@ -605,7 +605,7 @@
       "open_issues": 1,
       "owner": "pxlpnk",
       "repo": "awesome-ruby-security",
-      "stars": 474,
+      "stars": 473,
       "topics": [
         "awesome-list",
         "ruby",
