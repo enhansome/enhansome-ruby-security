@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-10T21:44:22Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-11T16:42:51Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3226,
@@ -86,7 +86,7 @@
                 "open_issues": 34,
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "cli",
                   "console",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-10T20:56:19Z",
+                "last_commit": "2026-09-11T21:05:42Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -373,10 +373,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T19:34:52Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "advisory-files",
                   "hacktoberfest",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:20:24.076Z",
+    "last_updated": "2026-09-12T08:09:03.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
