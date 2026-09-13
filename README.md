@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,250 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,551 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -22,7 +22,7 @@ A curated list of awesome Ruby Security related resources.
 ## Web Framework Hardening
 
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,760 | 🐛 20 | 🌐 Ruby | 📅 2026-09-08 - Middleware for blocking and throttling requests.
-* [secure-headers](https://github.com/twitter/secure_headers) ⭐ 3,226 | 🐛 13 | 🌐 Ruby | 📅 2026-09-11 - Manages application of security headers with many safe defaults.
+* [secure-headers](https://github.com/twitter/secure_headers) ⭐ 3,228 | 🐛 13 | 🌐 Ruby | 📅 2026-09-11 - Manages application of security headers with many safe defaults.
 
 ## Multi tools
 
@@ -32,7 +32,7 @@ A curated list of awesome Ruby Security related resources.
 
 ## Static Code Analysis
 
-* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,391 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
+* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,393 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
 * [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,269 | 🐛 118 | 🌐 Ruby | 📅 2026-08-13 - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,159 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
 * [Bearer](https://github.com/Bearer/bearer) ⭐ 2,744 | 🐛 22 | 🌐 Go | 📅 2026-09-08 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
@@ -44,7 +44,7 @@ A curated list of awesome Ruby Security related resources.
 
 ## Vulnerabilities and Security Advisories
 
-* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,072 | 🐛 5 | 🌐 Ruby | 📅 2026-09-08 - Open source database of security advisories that are relevant to Ruby libraries.
+* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,072 | 🐛 4 | 🌐 Ruby | 📅 2026-09-12 - Open source database of security advisories that are relevant to Ruby libraries.
 * [GemScanner](https://github.com/Splint3r7/GemScanner) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-03-30 - GemScanner identifies depreciated versions of gems in your ruby on rails project.
 * [bundler-audit](https://rubygems.org/gems/bundler-audit) - Patch-level verification for Ruby apps.
 
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
