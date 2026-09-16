@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,183 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,517 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -21,7 +21,7 @@ A curated list of awesome Ruby Security related resources.
 
 ## Web Framework Hardening
 
-* [Rack::Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,761 | 🐛 20 | 🌐 Ruby | 📅 2026-09-08 - Middleware for blocking and throttling requests.
+* [Rack::Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,762 | 🐛 20 | 🌐 Ruby | 📅 2026-09-08 - Middleware for blocking and throttling requests.
 * [secure-headers](https://github.com/twitter/secure_headers) ⭐ 3,228 | 🐛 13 | 🌐 Ruby | 📅 2026-09-11 - Manages application of security headers with many safe defaults.
 
 ## Multi tools
@@ -35,10 +35,10 @@ A curated list of awesome Ruby Security related resources.
 * [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,396 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
 * [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,270 | 🐛 118 | 🌐 Ruby | 📅 2026-08-13 - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,158 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
-* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,744 | 🐛 25 | 🌐 Go | 📅 2026-09-14 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
-* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,005 | 🐛 79 | 🌐 C# | 📅 2026-09-14 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
+* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,745 | 🐛 17 | 🌐 Go | 📅 2026-09-16 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,005 | 🐛 79 | 🌐 C# | 📅 2026-09-15 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 * [dawnscanner](https://github.com/thesp0nge/dawnscanner) ⭐ 748 | 🐛 24 | 🌐 Ruby | 📅 2024-03-02 - A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
-* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 68 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-11 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
+* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 68 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-15 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 * [rubocop-gitlab-security](https://gitlab.com/gitlab-org/rubocop-gitlab-security) - A set of rules to extend rubocop with additional security rules.
 * [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs.
 
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
