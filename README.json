@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13395,
+                "stars": 13397,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -186,11 +186,11 @@
                 "id": 865250,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-13T17:08:16Z",
-                "open_issues": 118,
+                "last_commit": "2026-09-18T05:55:51Z",
+                "open_issues": 117,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7270,
+                "stars": 7272,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -239,7 +239,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T08:14:40Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "Bearer",
                 "repo": "bearer",
                 "stars": 2744,
@@ -283,7 +283,7 @@
                 "open_issues": 79,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": [
                   "linter",
                   "sdl",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-15T19:49:02Z",
+                "last_commit": "2026-09-17T19:27:23Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:56:28.003Z",
+    "last_updated": "2026-09-18T08:31:24.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
