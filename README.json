@@ -86,7 +86,7 @@
                 "open_issues": 34,
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "cli",
                   "console",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13397,
+                "stars": 13399,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -186,11 +186,11 @@
                 "id": 865250,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T05:55:51Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-18T13:20:26Z",
+                "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7272,
+                "stars": 7273,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -242,7 +242,7 @@
                 "open_issues": 18,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2744,
+                "stars": 2745,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:31:24.678Z",
+    "last_updated": "2026-09-19T08:18:34.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",

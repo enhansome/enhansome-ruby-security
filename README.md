@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,283 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,639 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -26,16 +26,16 @@ A curated list of awesome Ruby Security related resources.
 
 ## Multi tools
 
-* [Ronin](https://github.com/ronin-rb/ronin) ⭐ 758 | 🐛 34 | 🌐 Ruby | 📅 2026-01-12 - Ronin is a free and Open Source Ruby toolkit for security research and development.
+* [Ronin](https://github.com/ronin-rb/ronin) ⭐ 759 | 🐛 34 | 🌐 Ruby | 📅 2026-01-12 - Ronin is a free and Open Source Ruby toolkit for security research and development.
 * [Salus](https://github.com/coinbase/salus) ⭐ 31 | 🐛 42 | 🌐 HTML | 📅 2025-06-12 - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 * [Snyk](https://snyk.io) - Continuously and automatically finds & fixes vulnerabilities for Ruby and other languages.
 
 ## Static Code Analysis
 
-* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,397 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
-* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,272 | 🐛 117 | 🌐 Ruby | 📅 2026-09-18 - A static analysis security vulnerability scanner for Ruby on Rails applications.
+* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,399 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
+* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,273 | 🐛 118 | 🌐 Ruby | 📅 2026-09-18 - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,158 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
-* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,744 | 🐛 18 | 🌐 Go | 📅 2026-09-16 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+* [Bearer](https://github.com/Bearer/bearer) ⭐ 2,745 | 🐛 18 | 🌐 Go | 📅 2026-09-16 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,006 | 🐛 79 | 🌐 C# | 📅 2026-09-15 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 * [dawnscanner](https://github.com/thesp0nge/dawnscanner) ⭐ 748 | 🐛 24 | 🌐 Ruby | 📅 2024-03-02 - A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 * [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 68 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-17 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
