@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13399,
+                "stars": 13400,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -239,10 +239,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T08:14:40Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -432,7 +432,7 @@
                 "open_issues": 3,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 923,
+                "stars": 924,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:18:34.648Z",
+    "last_updated": "2026-09-20T08:50:19.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
