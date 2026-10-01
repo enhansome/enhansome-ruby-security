@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-23T23:03:59Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-30T15:22:32Z",
+                "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3229,
@@ -166,7 +166,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-17T20:31:20Z",
-                "open_issues": 131,
+                "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
                 "stars": 13407,
@@ -186,7 +186,7 @@
                 "id": 865250,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T17:24:56Z",
+                "last_commit": "2026-10-01T02:06:52Z",
                 "open_issues": 114,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4158,
+                "stars": 4157,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 24,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2753,
+                "stars": 2752,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -283,7 +283,7 @@
                 "open_issues": 78,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1007,
+                "stars": 1008,
                 "topics": [
                   "linter",
                   "sdl",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-24T21:20:28Z",
+                "last_commit": "2026-10-01T00:47:21Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:01:24.935Z",
+    "last_updated": "2026-10-01T10:29:15.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
