@@ -47,7 +47,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3229,
+                "stars": 3227,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13407,
+                "stars": 13408,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,7 +187,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T02:06:52Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
                 "stars": 7274,
@@ -279,8 +279,8 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-29T22:50:26Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-01T13:13:27Z",
+                "open_issues": 79,
                 "owner": "microsoft",
                 "repo": "DevSkim",
                 "stars": 1008,
@@ -310,7 +310,7 @@
                 "open_issues": 24,
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "codereview",
                   "cybersecurity",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-01T00:47:21Z",
+                "last_commit": "2026-10-01T18:03:35Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T13:12:48Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1074,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:29:15.585Z",
+    "last_updated": "2026-10-02T10:04:31.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
