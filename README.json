@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-30T15:22:32Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-02T18:17:45Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3227,
@@ -86,7 +86,7 @@
                 "open_issues": 34,
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 759,
+                "stars": 760,
                 "topics": [
                   "cli",
                   "console",
@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13408,
+                "stars": 13410,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T02:32:59Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-02T10:48:04Z",
+                "open_issues": 26,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2752,
+                "stars": 2755,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -279,11 +279,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:13:27Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-02T10:35:40Z",
+                "open_issues": 80,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1008,
+                "stars": 1009,
                 "topics": [
                   "linter",
                   "sdl",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T13:12:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-02T20:20:53Z",
+                "open_issues": 2,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1074,
@@ -432,7 +432,7 @@
                 "open_issues": 4,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 925,
+                "stars": 927,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:04:31.423Z",
+    "last_updated": "2026-10-03T05:07:18.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
