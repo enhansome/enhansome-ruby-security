@@ -47,7 +47,7 @@
                 "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3227,
+                "stars": 3226,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13410,
+                "stars": 13409,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -186,11 +186,11 @@
                 "id": 865250,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T02:06:52Z",
+                "last_commit": "2026-10-05T00:15:38Z",
                 "open_issues": 116,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7274,
+                "stars": 7275,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T10:48:04Z",
+                "last_commit": "2026-10-05T02:33:04Z",
                 "open_issues": 26,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2757,
+                "stars": 2754,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -514,7 +514,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2022-07-17T16:46:46Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
                 "stars": 1361,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:14:17.773Z",
+    "last_updated": "2026-10-05T10:53:12.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
