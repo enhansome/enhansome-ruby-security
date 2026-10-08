@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:17:45Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-07T15:38:56Z",
+                "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3227,
@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13411,
+                "stars": 13410,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,10 +187,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T00:15:38Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7277,
+                "stars": 7278,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -372,11 +372,11 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T19:25:56Z",
+                "last_commit": "2026-10-08T00:03:30Z",
                 "open_issues": 2,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "advisory-files",
                   "hacktoberfest",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:36:19.553Z",
+    "last_updated": "2026-10-08T10:57:27.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
