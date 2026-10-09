@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-07T15:38:56Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-08T22:14:20Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3227,
@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13410,
+                "stars": 13411,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -279,11 +279,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T21:44:21Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-09T00:11:58Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1010,
+                "stars": 1011,
                 "topics": [
                   "linter",
                   "sdl",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:57:27.118Z",
+    "last_updated": "2026-10-09T10:56:17.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
