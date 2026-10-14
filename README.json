@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13411,
+                "stars": 13414,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7281,
+                "stars": 7282,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -242,7 +242,7 @@
                 "open_issues": 23,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2756,
+                "stars": 2757,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -338,11 +338,11 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-05T18:56:07Z",
+                "last_commit": "2026-10-13T11:58:05Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "check",
                   "node",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T13:26:59Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1074,
@@ -489,7 +489,7 @@
                 "open_issues": 1,
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "checklist",
                   "rails",
@@ -517,7 +517,7 @@
                 "open_issues": 83,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": [
                   "checklist",
                   "rails",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:12:12.747Z",
+    "last_updated": "2026-10-14T09:03:27.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
