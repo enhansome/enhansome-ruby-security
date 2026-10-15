@@ -169,7 +169,7 @@
                 "open_issues": 132,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13414,
+                "stars": 13413,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7282,
+                "stars": 7283,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -283,7 +283,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1012,
+                "stars": 1011,
                 "topics": [
                   "linter",
                   "sdl",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T13:26:59Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1074,
@@ -514,10 +514,10 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2022-07-17T16:46:46Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "checklist",
                   "rails",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:03:27.878Z",
+    "last_updated": "2026-10-15T08:36:57.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
