@@ -166,10 +166,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-17T20:31:20Z",
-                "open_issues": 132,
+                "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13413,
+                "stars": 13414,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 23,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2757,
+                "stars": 2758,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -283,7 +283,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1011,
+                "stars": 1012,
                 "topics": [
                   "linter",
                   "sdl",
@@ -310,7 +310,7 @@
                 "open_issues": 24,
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 749,
+                "stars": 748,
                 "topics": [
                   "codereview",
                   "cybersecurity",
@@ -489,7 +489,7 @@
                 "open_issues": 1,
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
-                "stars": 1815,
+                "stars": 1814,
                 "topics": [
                   "checklist",
                   "rails",
@@ -514,7 +514,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2022-07-17T16:46:46Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
                 "stars": 1361,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:36:57.247Z",
+    "last_updated": "2026-10-16T08:31:48.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
