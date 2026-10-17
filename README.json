@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5761,
+                "stars": 5760,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13414,
+                "stars": 13415,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 23,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2758,
+                "stars": 2759,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -568,7 +568,7 @@
                 "open_issues": 3,
                 "owner": "rubyfu",
                 "repo": "RubyFu",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "blackhat",
                   "book",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:31:48.687Z",
+    "last_updated": "2026-10-17T08:04:05.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
