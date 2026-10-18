@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13415,
+                "stars": 13416,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7283,
+                "stars": 7285,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -242,7 +242,7 @@
                 "open_issues": 23,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2759,
+                "stars": 2760,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -283,7 +283,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1012,
+                "stars": 1013,
                 "topics": [
                   "linter",
                   "sdl",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T13:26:59Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-17T18:01:17Z",
+                "open_issues": 4,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1074,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:04:05.661Z",
+    "last_updated": "2026-10-18T08:21:11.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
