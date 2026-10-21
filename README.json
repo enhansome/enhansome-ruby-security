@@ -18,7 +18,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-09-08T17:40:09Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "rack",
                 "repo": "rack-attack",
                 "stars": 5760,
@@ -190,7 +190,7 @@
                 "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7285,
+                "stars": 7286,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4157,
+                "stars": 4158,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T02:33:09Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-20T22:33:25Z",
+                "open_issues": 27,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2766,
+                "stars": 2767,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -283,7 +283,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1014,
+                "stars": 1015,
                 "topics": [
                   "linter",
                   "sdl",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-13T11:58:05Z",
+                "last_commit": "2026-10-20T10:45:58Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T03:23:49Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-20T22:11:54Z",
+                "open_issues": 5,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1075,
@@ -432,7 +432,7 @@
                 "open_issues": 4,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 927,
+                "stars": 928,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:54:09.987Z",
+    "last_updated": "2026-10-21T08:54:22.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
