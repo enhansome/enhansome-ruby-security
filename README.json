@@ -47,7 +47,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3228,
+                "stars": 3229,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -187,10 +187,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T00:10:36Z",
-                "open_issues": 116,
+                "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7286,
+                "stars": 7285,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-20T10:45:58Z",
+                "last_commit": "2026-10-22T11:07:38Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-20T22:11:54Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1076,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T08:56:46.837Z",
+    "last_updated": "2026-10-23T08:51:50.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
