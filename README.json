@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13417,
+                "stars": 13418,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4158,
+                "stars": 4157,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 28,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2771,
+                "stars": 2772,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T22:11:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-23T18:23:43Z",
+                "open_issues": 4,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1076,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:51:50.415Z",
+    "last_updated": "2026-10-24T08:25:26.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
