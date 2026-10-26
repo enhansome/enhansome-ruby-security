@@ -47,7 +47,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3229,
+                "stars": 3230,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13419,
+                "stars": 13420,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4156,
+                "stars": 4157,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T00:25:59Z",
+                "last_commit": "2026-10-26T08:13:29Z",
                 "open_issues": 28,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2771,
+                "stars": 2773,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T18:23:43Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1076,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:45:00.272Z",
+    "last_updated": "2026-10-26T09:23:58.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
