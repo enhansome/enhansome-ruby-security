@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5761,
+                "stars": 5762,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -47,7 +47,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3230,
+                "stars": 3231,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -279,11 +279,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T00:11:58Z",
-                "open_issues": 75,
+                "last_commit": "2026-10-27T22:40:16Z",
+                "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "linter",
                   "sdl",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T03:24:22Z",
-                "open_issues": 4,
+                "open_issues": 9,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1077,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:22:34.890Z",
+    "last_updated": "2026-10-28T10:03:21.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
