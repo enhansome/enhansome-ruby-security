@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5762,
+                "stars": 5763,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -43,7 +43,7 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-21T15:22:32Z",
+                "last_commit": "2026-10-28T15:23:01Z",
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13420,
+                "stars": 13422,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7287,
+                "stars": 7288,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T08:13:29Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-28T14:24:32Z",
+                "open_issues": 19,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -279,7 +279,7 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-27T22:40:16Z",
+                "last_commit": "2026-10-28T19:00:24Z",
                 "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "DevSkim",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T03:24:22Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1077,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:03:21.675Z",
+    "last_updated": "2026-10-29T10:27:33.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
