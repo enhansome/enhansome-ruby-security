@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5764,
+                "stars": 5765,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -47,7 +47,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3231,
+                "stars": 3232,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13424,
+                "stars": 13425,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7288,
+                "stars": 7290,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T14:48:48Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-30T15:39:12Z",
+                "open_issues": 18,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2776,
+                "stars": 2779,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T14:21:21Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-30T20:32:03Z",
+                "open_issues": 11,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1077,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:29:26.071Z",
+    "last_updated": "2026-10-31T09:58:41.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
