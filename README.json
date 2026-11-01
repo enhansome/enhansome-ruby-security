@@ -190,7 +190,7 @@
                 "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7290,
+                "stars": 7292,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4157,
+                "stars": 4158,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T20:32:03Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-31T14:47:28Z",
+                "open_issues": 10,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1077,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:58:41.869Z",
+    "last_updated": "2026-11-01T10:49:31.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
