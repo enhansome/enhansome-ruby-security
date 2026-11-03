@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,224 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,971 | 🐛 104 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -33,18 +33,18 @@ A curated list of awesome Ruby Security related resources.
 ## Static Code Analysis
 
 * [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,425 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
-* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,292 | 🐛 119 | 🌐 Ruby | 📅 2026-10-22 - A static analysis security vulnerability scanner for Ruby on Rails applications.
+* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,293 | 🐛 119 | 🌐 Ruby | 📅 2026-10-22 - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,161 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
 * [Bearer](https://github.com/Bearer/bearer) ⭐ 2,779 | 🐛 21 | 🌐 Go | 📅 2026-11-02 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
-* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,017 | 🐛 76 | 🌐 C# | 📅 2026-10-28 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
+* [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,017 | 🐛 75 | 🌐 C# | 📅 2026-10-28 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 * [dawnscanner](https://github.com/thesp0nge/dawnscanner) ⭐ 748 | 🐛 24 | 🌐 Ruby | 📅 2024-03-02 - A static analysis security scanner for ruby applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
-* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 69 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
+* [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) ⭐ 69 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-02 - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 * [rubocop-gitlab-security](https://gitlab.com/gitlab-org/rubocop-gitlab-security) - A set of rules to extend rubocop with additional security rules.
 * [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs.
 
 ## Vulnerabilities and Security Advisories
 
-* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,077 | 🐛 4 | 🌐 Ruby | 📅 2026-11-01 - Open source database of security advisories that are relevant to Ruby libraries.
+* [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) ⭐ 1,077 | 🐛 3 | 🌐 Ruby | 📅 2026-11-03 - Open source database of security advisories that are relevant to Ruby libraries.
 * [GemScanner](https://github.com/Splint3r7/GemScanner) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-03-30 - GemScanner identifies depreciated versions of gems in your ruby on rails project.
 * [bundler-audit](https://rubygems.org/gems/bundler-audit) - Patch-level verification for Ruby apps.
 
@@ -58,9 +58,9 @@ A curated list of awesome Ruby Security related resources.
 ## Articles & Guides
 
 * [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) ⭐ 1,814 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09 - A well-documented Rails security checklist.
-* [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 87 | 🌐 Ruby | 📅 2022-07-17 - 🔑 Community-driven Rails Security Checklist.
+* [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 90 | 🌐 Ruby | 📅 2022-07-17 - 🔑 Community-driven Rails Security Checklist.
 * [Rails security best practices](https://github.com/ankane/secure_rails) ⭐ 1,069 | 🐛 1 | 📅 2025-07-26 - A good overview of usefull things to look out for when working with Rails.
-* [Rubyfu](https://rubyfu.net/) - Offensive security book for rubyist ([Source](https://github.com/rubyfu/RubyFu) ⭐ 358 | 🐛 3 | 🌐 CSS | 📅 2023-08-07)
+* [Rubyfu](https://rubyfu.net/) - Offensive security book for rubyist ([Source](https://github.com/rubyfu/RubyFu) ⭐ 359 | 🐛 3 | 🌐 CSS | 📅 2023-08-07)
 * [Rails Security Guides](https://guides.rubyonrails.org/security.html) - The essentials to read when dealing with Rails Applications.
 * [Securing Ruby and Rails Apps](https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase) - Applying static code analysis and dependency checking in your CI/CD pipeline.
 * [OWASP Ruby on Rails Cheatsheet](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet) - This Cheatsheet intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from [rails core](https://guides.rubyonrails.org/security.html).
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
