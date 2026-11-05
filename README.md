@@ -5,7 +5,7 @@ A curated list of awesome Ruby Security related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,624 | 🐛 103 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,373 | 🐛 103 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -21,8 +21,8 @@ A curated list of awesome Ruby Security related resources.
 
 ## Web Framework Hardening
 
-* [Rack::Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,766 | 🐛 22 | 🌐 Ruby | 📅 2026-09-08 - Middleware for blocking and throttling requests.
-* [secure-headers](https://github.com/twitter/secure_headers) ⭐ 3,232 | 🐛 13 | 🌐 Ruby | 📅 2026-10-28 - Manages application of security headers with many safe defaults.
+* [Rack::Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,767 | 🐛 22 | 🌐 Ruby | 📅 2026-09-08 - Middleware for blocking and throttling requests.
+* [secure-headers](https://github.com/twitter/secure_headers) ⭐ 3,232 | 🐛 13 | 🌐 Ruby | 📅 2026-11-04 - Manages application of security headers with many safe defaults.
 
 ## Multi tools
 
@@ -32,8 +32,8 @@ A curated list of awesome Ruby Security related resources.
 
 ## Static Code Analysis
 
-* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,430 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
-* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,293 | 🐛 120 | 🌐 Ruby | 📅 2026-10-22 - A static analysis security vulnerability scanner for Ruby on Rails applications.
+* [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,432 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing secrets and credentials into git repositories.
+* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,294 | 🐛 120 | 🌐 Ruby | 📅 2026-10-22 - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [rails\_best\_practices](https://github.com/flyerhzm/rails_best_practices) ⭐ 4,161 | 🐛 61 | 🌐 Ruby | 📅 2026-04-23 - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
 * [Bearer](https://github.com/Bearer/bearer) ⭐ 2,783 | 🐛 21 | 🌐 Go | 📅 2026-11-02 - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 * [DevSkim](https://github.com/Microsoft/DevSkim) ⭐ 1,017 | 🐛 75 | 🌐 C# | 📅 2026-10-28 - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
@@ -94,4 +94,4 @@ say *hi* on [Twitter](https://twitter.com/pxlpnk)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

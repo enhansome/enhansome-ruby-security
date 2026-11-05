@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5766,
+                "stars": 5767,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -43,7 +43,7 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-28T15:23:01Z",
+                "last_commit": "2026-11-04T15:23:23Z",
                 "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13430,
+                "stars": 13432,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 120,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7293,
+                "stars": 7294,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -372,7 +372,7 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T08:37:06Z",
+                "last_commit": "2026-11-04T14:42:55Z",
                 "open_issues": 3,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:37:40.419Z",
+    "last_updated": "2026-11-05T11:38:54.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
