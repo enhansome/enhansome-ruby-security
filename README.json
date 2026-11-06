@@ -190,7 +190,7 @@
                 "open_issues": 120,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7294,
+                "stars": 7295,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4161,
+                "stars": 4160,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -242,7 +242,7 @@
                 "open_issues": 21,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2783,
+                "stars": 2784,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -279,11 +279,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T19:00:24Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-05T19:20:29Z",
+                "open_issues": 76,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "linter",
                   "sdl",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-02T18:29:47Z",
+                "last_commit": "2026-11-05T21:42:50Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -489,7 +489,7 @@
                 "open_issues": 1,
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
-                "stars": 1814,
+                "stars": 1812,
                 "topics": [
                   "checklist",
                   "rails",
@@ -517,7 +517,7 @@
                 "open_issues": 90,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
-                "stars": 1362,
+                "stars": 1363,
                 "topics": [
                   "checklist",
                   "rails",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:38:54.207Z",
+    "last_updated": "2026-11-06T11:37:39.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
