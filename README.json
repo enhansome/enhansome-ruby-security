@@ -86,7 +86,7 @@
                 "open_issues": 34,
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 761,
+                "stars": 760,
                 "topics": [
                   "cli",
                   "console",
@@ -190,7 +190,7 @@
                 "open_issues": 120,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7295,
+                "stars": 7292,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -242,7 +242,7 @@
                 "open_issues": 21,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2784,
+                "stars": 2785,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -279,11 +279,11 @@
                 "id": 64857273,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T19:20:29Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-06T22:50:42Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1018,
+                "stars": 1017,
                 "topics": [
                   "linter",
                   "sdl",
@@ -310,7 +310,7 @@
                 "open_issues": 24,
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 748,
+                "stars": 746,
                 "topics": [
                   "codereview",
                   "cybersecurity",
@@ -432,7 +432,7 @@
                 "open_issues": 4,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 928,
+                "stars": 929,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -514,7 +514,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2022-07-17T16:46:46Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
                 "stars": 1363,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:37:39.611Z",
+    "last_updated": "2026-11-07T10:43:26.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
