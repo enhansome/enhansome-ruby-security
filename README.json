@@ -43,11 +43,11 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T15:22:36Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-18T02:06:23Z",
+                "open_issues": 12,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3231,
+                "stars": 3233,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13445,
+                "stars": 13446,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,10 +187,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T00:10:36Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7295,
+                "stars": 7296,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -239,10 +239,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T14:41:53Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2794,
+                "stars": 2795,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -310,7 +310,7 @@
                 "open_issues": 24,
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "codereview",
                   "cybersecurity",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T03:23:48Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-17T15:25:13Z",
+                "open_issues": 5,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1085,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:32:29.929Z",
+    "last_updated": "2026-11-18T12:20:13.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
