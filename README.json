@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "rack",
                 "repo": "rack-attack",
-                "stars": 5765,
+                "stars": 5764,
                 "topics": [
                   "rack",
                   "rack-attack",
@@ -47,7 +47,7 @@
                 "open_issues": 12,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3234,
+                "stars": 3233,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -86,7 +86,7 @@
                 "open_issues": 34,
                 "owner": "ronin-rb",
                 "repo": "ronin",
-                "stars": 761,
+                "stars": 760,
                 "topics": [
                   "cli",
                   "console",
@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13448,
+                "stars": 13449,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -187,10 +187,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T19:23:58Z",
-                "open_issues": 121,
+                "open_issues": 122,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7296,
+                "stars": 7295,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -221,7 +221,7 @@
                 "open_issues": 61,
                 "owner": "flyerhzm",
                 "repo": "rails_best_practices",
-                "stars": 4160,
+                "stars": 4159,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T14:41:53Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-20T10:55:16Z",
+                "open_issues": 28,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2795,
+                "stars": 2796,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -283,7 +283,7 @@
                 "open_issues": 69,
                 "owner": "microsoft",
                 "repo": "DevSkim",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "linter",
                   "sdl",
@@ -310,7 +310,7 @@
                 "open_issues": 24,
                 "owner": "thesp0nge",
                 "repo": "dawnscanner",
-                "stars": 748,
+                "stars": 746,
                 "topics": [
                   "codereview",
                   "cybersecurity",
@@ -373,10 +373,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T07:21:42Z",
-                "open_issues": 5,
+                "open_issues": 11,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "advisory-files",
                   "hacktoberfest",
@@ -432,7 +432,7 @@
                 "open_issues": 4,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 930,
+                "stars": 929,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -489,7 +489,7 @@
                 "open_issues": 1,
                 "owner": "brunofacca",
                 "repo": "zen-rails-security-checklist",
-                "stars": 1811,
+                "stars": 1809,
                 "topics": [
                   "checklist",
                   "rails",
@@ -517,7 +517,7 @@
                 "open_issues": 92,
                 "owner": "eliotsykes",
                 "repo": "rails-security-checklist",
-                "stars": 1363,
+                "stars": 1361,
                 "topics": [
                   "checklist",
                   "rails",
@@ -547,7 +547,7 @@
                 "open_issues": 1,
                 "owner": "ankane",
                 "repo": "secure_rails",
-                "stars": 1067,
+                "stars": 1066,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:14:36.309Z",
+    "last_updated": "2026-11-20T12:14:15.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
@@ -605,7 +605,7 @@
       "open_issues": 1,
       "owner": "pxlpnk",
       "repo": "awesome-ruby-security",
-      "stars": 474,
+      "stars": 473,
       "topics": [
         "awesome-list",
         "ruby",
