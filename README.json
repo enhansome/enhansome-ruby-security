@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13449,
+                "stars": 13450,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -186,7 +186,7 @@
                 "id": 865250,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T19:23:58Z",
+                "last_commit": "2026-11-20T18:53:25Z",
                 "open_issues": 122,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
@@ -238,11 +238,11 @@
                 "id": 542197924,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T10:55:16Z",
+                "last_commit": "2026-11-20T16:05:17Z",
                 "open_issues": 28,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2796,
+                "stars": 2798,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-17T01:17:43Z",
+                "last_commit": "2026-11-20T21:34:03Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -372,8 +372,8 @@
                 "id": 8154497,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T07:21:42Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-20T18:33:12Z",
+                "open_issues": 10,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1084,
@@ -432,7 +432,7 @@
                 "open_issues": 4,
                 "owner": "OWASP",
                 "repo": "railsgoat",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "appsec",
                   "owasp-top",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:14:15.255Z",
+    "last_updated": "2026-11-21T11:50:16.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
