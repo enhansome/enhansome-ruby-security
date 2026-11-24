@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13450,
+                "stars": 13449,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -376,7 +376,7 @@
                 "open_issues": 1,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "advisory-files",
                   "hacktoberfest",
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T13:43:38.250Z",
+    "last_updated": "2026-11-24T14:19:37.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
