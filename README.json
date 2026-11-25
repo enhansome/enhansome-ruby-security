@@ -169,7 +169,7 @@
                 "open_issues": 131,
                 "owner": "awslabs",
                 "repo": "git-secrets",
-                "stars": 13449,
+                "stars": 13450,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -190,7 +190,7 @@
                 "open_issues": 122,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7294,
+                "stars": 7295,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -239,10 +239,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-23T02:33:24Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2799,
+                "stars": 2800,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-22T14:40:03Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1083,
@@ -547,7 +547,7 @@
                 "open_issues": 1,
                 "owner": "ankane",
                 "repo": "secure_rails",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:42:17.024Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:19:37.253Z",
+    "last_updated": "2026-11-25T13:38:26.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
