@@ -43,8 +43,8 @@
                 "id": 7122663,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:50:48Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-25T18:38:17Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
                 "stars": 3232,
@@ -242,7 +242,7 @@
                 "open_issues": 29,
                 "owner": "Bearer",
                 "repo": "bearer",
-                "stars": 2800,
+                "stars": 2801,
                 "topics": [
                   "appsec",
                   "code-quality",
@@ -338,7 +338,7 @@
                 "id": 47205638,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-20T21:34:03Z",
+                "last_commit": "2026-11-25T17:57:46Z",
                 "open_issues": 16,
                 "owner": "bahmutov",
                 "repo": "ban-sensitive-files",
@@ -373,7 +373,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-22T14:40:03Z",
-                "open_issues": 2,
+                "open_issues": 7,
                 "owner": "rubysec",
                 "repo": "ruby-advisory-db",
                 "stars": 1083,
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T13:38:26.773Z",
+    "last_updated": "2026-11-26T13:15:20.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Ruby Security resources",
